@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eco.ApiGateway", "src\Aivl.Eco.ApiGateway\Eco.ApiGateway.csproj", "{314C9A54-4919-4D84-B3C1-EA7ADD25261F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eco", "src\Aivl.Eco\Eco.csproj", "{1EFA1189-93E2-4FDB-897A-1D63D8AFB8FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eco.Sql", "src\Aivl.Eco.Sql\Eco.Sql.csproj", "{D83628AF-9443-4F2C-8150-E3CA344A4D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Migration|Any CPU = Migration|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314C9A54-4919-4D84-B3C1-EA7ADD25261F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314C9A54-4919-4D84-B3C1-EA7ADD25261F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314C9A54-4919-4D84-B3C1-EA7ADD25261F}.Migration|Any CPU.ActiveCfg = Migration|Any CPU
+		{314C9A54-4919-4D84-B3C1-EA7ADD25261F}.Migration|Any CPU.Build.0 = Migration|Any CPU
+		{314C9A54-4919-4D84-B3C1-EA7ADD25261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314C9A54-4919-4D84-B3C1-EA7ADD25261F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFA1189-93E2-4FDB-897A-1D63D8AFB8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFA1189-93E2-4FDB-897A-1D63D8AFB8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFA1189-93E2-4FDB-897A-1D63D8AFB8FB}.Migration|Any CPU.ActiveCfg = Migration|Any CPU
+		{1EFA1189-93E2-4FDB-897A-1D63D8AFB8FB}.Migration|Any CPU.Build.0 = Migration|Any CPU
+		{1EFA1189-93E2-4FDB-897A-1D63D8AFB8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFA1189-93E2-4FDB-897A-1D63D8AFB8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83628AF-9443-4F2C-8150-E3CA344A4D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83628AF-9443-4F2C-8150-E3CA344A4D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83628AF-9443-4F2C-8150-E3CA344A4D9D}.Migration|Any CPU.ActiveCfg = Migration|Any CPU
+		{D83628AF-9443-4F2C-8150-E3CA344A4D9D}.Migration|Any CPU.Build.0 = Migration|Any CPU
+		{D83628AF-9443-4F2C-8150-E3CA344A4D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83628AF-9443-4F2C-8150-E3CA344A4D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0EA5E00-BE84-4C60-8CDB-2F689DE146AA}
+	EndGlobalSection
+EndGlobal

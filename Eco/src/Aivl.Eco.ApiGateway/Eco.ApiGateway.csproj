@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Configurations>Debug;Release;Migration</Configurations>
+    <UserSecretsId>40f9b7ef-8a97-4571-bc75-fa0599ed15b8</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/e9c6df82-43a6-4361-8b5c-cd513685057e/resourceGroups/Azure-Internal-RD-6201/providers/microsoft.insights/components/AivlEco</ApplicationInsightsResourceId>
+    <AssemblyName>Eco.ApiGateway</AssemblyName>
+    <RootNamespace>Eco.ApiGateway</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.13.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Formatters.Json" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="3.1.5" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.6.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aivl.Eco.Sql\Eco.Sql.csproj" />
+    <ProjectReference Include="..\Aivl.Eco\Eco.csproj" />
+  </ItemGroup>
+
+
+</Project>

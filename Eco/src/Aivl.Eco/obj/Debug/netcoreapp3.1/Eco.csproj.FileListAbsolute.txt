@@ -1,0 +1,9 @@
+D:\MyWS\Eco\src\Aivl.Eco\bin\Debug\netcoreapp3.1\Eco.deps.json
+D:\MyWS\Eco\src\Aivl.Eco\bin\Debug\netcoreapp3.1\Eco.dll
+D:\MyWS\Eco\src\Aivl.Eco\bin\Debug\netcoreapp3.1\Eco.pdb
+D:\MyWS\Eco\src\Aivl.Eco\obj\Debug\netcoreapp3.1\Eco.csprojAssemblyReference.cache
+D:\MyWS\Eco\src\Aivl.Eco\obj\Debug\netcoreapp3.1\Eco.AssemblyInfoInputs.cache
+D:\MyWS\Eco\src\Aivl.Eco\obj\Debug\netcoreapp3.1\Eco.AssemblyInfo.cs
+D:\MyWS\Eco\src\Aivl.Eco\obj\Debug\netcoreapp3.1\Eco.csproj.CoreCompileInputs.cache
+D:\MyWS\Eco\src\Aivl.Eco\obj\Debug\netcoreapp3.1\Eco.dll
+D:\MyWS\Eco\src\Aivl.Eco\obj\Debug\netcoreapp3.1\Eco.pdb

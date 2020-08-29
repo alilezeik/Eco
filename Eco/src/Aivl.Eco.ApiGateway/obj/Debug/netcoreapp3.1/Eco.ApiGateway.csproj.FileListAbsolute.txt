@@ -1,0 +1,5 @@
+D:\MyWS\Eco\src\Aivl.Eco.ApiGateway\obj\Debug\netcoreapp3.1\Eco.ApiGateway.csprojAssemblyReference.cache
+D:\MyWS\Eco\src\Aivl.Eco.ApiGateway\obj\Debug\netcoreapp3.1\Eco.ApiGateway.AssemblyInfoInputs.cache
+D:\MyWS\Eco\src\Aivl.Eco.ApiGateway\obj\Debug\netcoreapp3.1\Eco.ApiGateway.AssemblyInfo.cs
+D:\MyWS\Eco\src\Aivl.Eco.ApiGateway\obj\Debug\netcoreapp3.1\Eco.ApiGateway.csproj.CoreCompileInputs.cache
+D:\MyWS\Eco\src\Aivl.Eco.ApiGateway\obj\Debug\netcoreapp3.1\Eco.ApiGateway.MvcApplicationPartsAssemblyInfo.cache
